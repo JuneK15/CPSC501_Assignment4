@@ -177,4 +177,3 @@ class Network(object):
         \partial a for the output activations."""
         return (output_activations-y)
 
- 
