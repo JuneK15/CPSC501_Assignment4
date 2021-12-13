@@ -83,5 +83,5 @@ for s in testingFeatures:
         ls.append(index)
         print(out, "\n\n")#value of the wrong value
     index = index + 1
-
-print(ls)#all the indicies of the wrong outputs
+#all the indicies of the wrong outputs
+print(ls)
