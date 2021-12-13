@@ -34,7 +34,6 @@ except:
 # TO DO: get label from other file
 label = dataarray[index]
 
-
 print("Displaying test image")
 print(f"index: {index}, label: {label}")
 
